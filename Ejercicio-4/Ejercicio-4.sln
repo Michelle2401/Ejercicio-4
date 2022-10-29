@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Login\Vista.csproj", "{E2BC7FF3-0E6A-4586-A09D-0F313C9D6B79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VistaLog", "Login\VistaLog.csproj", "{E2BC7FF3-0E6A-4586-A09D-0F313C9D6B79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{64FCD953-35FE-4398-BE68-AD0893DA9ED5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datos", "Datos\Datos.csproj", "{64FCD953-35FE-4398-BE68-AD0893DA9ED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{D9DAC225-4617-4A48-BD1D-3D6C27BB4119}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{D9DAC225-4617-4A48-BD1D-3D6C27BB4119}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
