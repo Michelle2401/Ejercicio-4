@@ -70,6 +70,7 @@
             // 
             this.ClaveText.Location = new System.Drawing.Point(104, 112);
             this.ClaveText.Name = "ClaveText";
+            this.ClaveText.PasswordChar = '*';
             this.ClaveText.Size = new System.Drawing.Size(100, 23);
             this.ClaveText.TabIndex = 3;
             // 

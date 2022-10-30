@@ -83,6 +83,16 @@ namespace VistaLog.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap editar_documento {
+            get {
+                object obj = ResourceManager.GetObject("editar-documento", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap iniciar_sesion {
             get {
                 object obj = ResourceManager.GetObject("iniciar-sesion", resourceCulture);
@@ -96,6 +106,26 @@ namespace VistaLog.Properties {
         internal static System.Drawing.Bitmap iniciar_sesion__1_ {
             get {
                 object obj = ResourceManager.GetObject("iniciar-sesion (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap prohibido {
+            get {
+                object obj = ResourceManager.GetObject("prohibido", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap salvar {
+            get {
+                object obj = ResourceManager.GetObject("salvar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
